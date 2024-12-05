@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "name": "Assassins Creed IV Black Flag",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "Battlefield 1",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Battlefield 4",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Call of Duty Ghosts",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 5,
+        "name": "Call of Duty Modern Warfare",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 6,
+        "name": "Call of Duty Vanguard",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 7,
+        "name": "Call of Duty WW1",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 8,
+        "name": "Dead Rising 3",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 9,
+        "name": "Destiny 2",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 10,
+        "name": "FIFA 22",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 11,
+        "name": "Forza Motorsport 5",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 12,
+        "name": "Halo 5",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 13,
+        "name": "Halo Reach",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 14,
+        "name": "Halo Master Chief Collection",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 15,
+        "name": "Halo Infinite",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 16,
+        "name": "Injustice 2",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 17,
+        "name": "Madden NFL 22",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 18,
+        "name": "Minecraft",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 19,
+        "name": "Mortal Kombat 11",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 20,
+        "name": "Mortal Kombat XL",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 21,
+        "name": "Naruto Shippuden: Ultimate Ninja Storm 4 ROAD TO BORUTO",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 22,
+        "name": "NBA 2K22",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 23,
+        "name": "Overwatch Origins Edition",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 24,
+        "name": "Rocket League",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 25,
+        "name": "Tekken 7",
+        "console": "Xbox",
+        "available": true
+    },
+    {
+        "id": 26,
+        "name": "Tom Clancy's Rainbow 6 Siege",
+        "console": "Xbox",
+        "available": true
+    }
+]
